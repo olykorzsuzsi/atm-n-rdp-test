@@ -19,5 +19,6 @@ Contents
 .. toctree::
 
    atm
+   rdp
    usage
    api
