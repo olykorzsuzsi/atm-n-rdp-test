@@ -24,7 +24,7 @@ First, let’s go through the most important parts of an ATM:
 
 If you’re already familiar with an ATM’s navigation, you can skip to the ‘Accessing your account’ or ‘Transactions’ sections.
 
-.. figure:: parts of ATM.png
+.. figure:: parts-of-ATM.png
   :align: center
   :alt: Parts of the ATM
 
@@ -88,7 +88,7 @@ Before we get into the nitty-gritty of ATM transactions, let’s take a look at 
 
 \
 
-.. figure:: card chip upwards.png
+.. figure:: card-chip-upwards.png
   :align: center
   :alt: Inserting your card
 
@@ -108,7 +108,7 @@ The ATM reads your card and asks for verification.
 
 \
 
-.. figure:: atm keypad from side.png
+.. figure:: atm-keypad-from-side.png
   :align: center
   :alt: Entering your PIN
 
